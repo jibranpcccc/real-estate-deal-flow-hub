@@ -4,10 +4,17 @@
     <title>Real Estate Syndication &amp; Deal Flow Hub</title>
     <link>https://real-estate-deal-flow-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:05:47 GMT</lastBuildDate>
     <atom:link href="https://real-estate-deal-flow-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://real-estate-deal-flow-hub.netlify.app/#real-estate-deal-flow-hub-forum-20261009-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:47 GMT</pubDate>
+      <description>Newly verified community added to Real Estate Syndication &amp; Deal Flow Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://real-estate-deal-flow-hub.netlify.app/#real-estate-deal-flow-hub-forum-20261009-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://real-estate-deal-flow-hub.netlify.app/#real-estate-deal-flow-hub-reddit-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:06:06 GMT</pubDate>
       <description>Newly verified community added to Real Estate Syndication &amp; Deal Flow Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
-      <link>https://www.reddit.com/r/science/</link>
-      <guid isPermaLink="false">https://real-estate-deal-flow-hub.netlify.app/#real-estate-deal-flow-hub-reddit-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:30:03 GMT</pubDate>
-      <description>Newly verified community added to Real Estate Syndication &amp; Deal Flow Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
     </item>
   </channel>
 </rss>
